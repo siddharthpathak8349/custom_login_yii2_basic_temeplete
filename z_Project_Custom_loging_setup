@@ -1,0 +1,11 @@
+step 1 - install project  &&  Connect DB  &&  Create DB
+
+step 2 - migrateion karo --> ( php yii migrate/create create_user_table ) --> then "php yii migrate"
+
+step 3 - copy Model -->  User, LoginFrom , SignupForm
+
+step 4 - copy SiteController
+
+step 5 - copy site/views file  ---->  login.php , signup.php
+
+step 6 - Run the project  (php yii serve)
